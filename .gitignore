@@ -1,0 +1,6 @@
+test_build/*
+
+# buildozer
+bin/
+.buildozer/
+keystores/
